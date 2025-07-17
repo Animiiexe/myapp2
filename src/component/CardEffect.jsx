@@ -30,7 +30,7 @@ export function ThreeDCardDemo() {
           <CardItem
             translateZ={20}
             as="a"
-            href="https://twitter.com/mannupaaji"
+            href="#"
             target="__blank"
             className="px-6 py-3 rounded-xl text-lg font-normal dark:text-white hover:bg-gray-200 dark:hover:bg-gray-800 transition-colors">
             Try Me now 
